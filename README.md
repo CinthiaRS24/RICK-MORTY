@@ -19,8 +19,7 @@ Construye la aplicación para producción en la carpeta `build`.
 Empaqueta correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
 ## Tecnologías:
-- Javascript
-- React
+- React.js
 - HTML5
 - CSS3
 
